@@ -28,8 +28,8 @@ We really love PUBG, we wish it good luck and we wanna have the same chances dur
 If you wanna show me your appreciation - Please, like my guide, add it to fav, show it to your friends (maybe they also have problems with PUBG), or maybe you wanna sent me something.
 Every kind of appreciation will be appreciated :D
 
-- https://www.buymeacoffee.com/Stream
-- https://steamcommunity.com/tradeoffer/new/?partner=177717593&token=NO-4pP9D
+- [https://www.buymeacoffee.com/Stream](https://www.buymeacoffee.com/Stream)
+- [https://steamcommunity.com/tradeoffer/new/?partner=177717593&token=NO-4pP9D](https://steamcommunity.com/tradeoffer/new/?partner=177717593&token=NO-4pP9D)
 
 I have tested many things from my guide since Vikendi update.
 What I noticed? Every single update, game worked totally different and some FPS fixes worked, but the next update you had to revert them into previous previous ones. Weird, right? I don't really know, but it really worked.
@@ -90,7 +90,7 @@ I suggest trying 3
 
 You can also try App Controlled option.
 
-Big reddit post about it - https://www.reddit.com/comments/9vte98
+Big reddit post about it - [https://www.reddit.com/comments/9vte98](https://www.reddit.com/comments/9vte98)
 
 ### 3. Nvidia Inspector
 Third party software that you MUST download
@@ -104,7 +104,7 @@ Disable NVidia overlays in GeForce Experience
 ### 5. Disable Nvidia telemetry
 Just download the software and disable everything.
 You can do it other ways, but this one is the simplest and 'newbie friendly'
-https://www.majorgeeks.com/mg/getmirror/disable_nvidia_telemetry,1.html
+[https://www.majorgeeks.com/mg/getmirror/disable_nvidia_telemetry,1.html](https://www.majorgeeks.com/mg/getmirror/disable_nvidia_telemetry,1.html)
 
 
 
@@ -297,7 +297,7 @@ Give it time, be patient.
 Just make sure to watch out for CPU temperatures.
 
 ### 6. AHCI Link Power Management
-I have nothing more to say, just follow the guide - https://www.tenforums.com/tutorials/72971-add-ahci-link-power-management-power-options-windows.html
+I have nothing more to say, just follow the guide - [https://www.tenforums.com/tutorials/72971-add-ahci-link-power-management-power-options-windows.html](https://www.tenforums.com/tutorials/72971-add-ahci-link-power-management-power-options-windows.html)
 
 ### 7. Install Intel Rapid Storage Technology
 Google it.
@@ -346,7 +346,7 @@ People had been using launch options during Alpha and Beta to get the best possi
 !Make sure you run the game in FULLSCREEN mode!
 
 Website to check the difference between ‘Very Low’ and ‘Ultra’.
-https://imgsli.com/MTk0Mg/24/0
+[https://imgsli.com/MTk0Mg/24/0](https://imgsli.com/MTk0Mg/24/0)
 
 Resolution: It’s always the best idea to use your screen resolution.
 If your PC really sucks, you can try to lower it.
@@ -410,16 +410,16 @@ Just enable XMP, if your motherboard and RAM supports it.
 ## Connection improvement
 ### 1. Enable port forwarding for PUBG
 All of the used ports are here:
-https://portforward.com/playerunknowns-battlegrounds/
+[https://portforward.com/playerunknowns-battlegrounds/](https://portforward.com/playerunknowns-battlegrounds/)
 
-### 2. Run http://www.dslreports.com/speedtest test
+### 2. Run [DSL Reports](http://www.dslreports.com/speedtest) test
 If your BufferBloat is lower than 'Rank A".
 
 Google: 'Router QoS - Improve bufferbloat'.
 
 If your router do not support QoS function:
 - Download third party software called 'Tmeter'.
-- Follow this guide: https://www.howtogeek.com/347711/how-to-limit-any-applications-bandwidth-on-windows/
+- Follow this guide: [https://www.howtogeek.com/347711/how-to-limit-any-applications-bandwidth-on-windows/](https://www.howtogeek.com/347711/how-to-limit-any-applications-bandwidth-on-windows/)
 
 Remember one thing - 'google chrome exe' is an application that you use to check the best possible result of bufferbloat.
 If you manage it to get rank A or A+ on google chrome, you are gonna do exactly the same to a file 'TSLGame.exe'. Settings that gave you A or A+ on ‘google chrome app’, you also use for TSLGame.exe file.
@@ -533,8 +533,8 @@ Hope you appreciate it and most of your problems are gone!
 
 If you wanna show me your appreciation - Please, like my guide, show it to your friends, or maybe you wanna sent me something.
 Every kind of appreciation will be appreciated :D
-- https://www.buymeacoffee.com/Stream
-- https://steamcommunity.com/tradeoffer/new/?partner=177717593&token=NO-4pP9D
+- [https://www.buymeacoffee.com/Stream](https://www.buymeacoffee.com/Stream)
+- [https://steamcommunity.com/tradeoffer/new/?partner=177717593&token=NO-4pP9D](https://steamcommunity.com/tradeoffer/new/?partner=177717593&token=NO-4pP9D)
 
 You can also add me on steam to get some additional info If any of your problems was not fixed.
 But before adding me, please leave a comment. I have hundreds of unaccepted invitations.
@@ -585,21 +585,18 @@ Corrector:
 ### PRO Players
 #### PUBG PRO PLAYERS
 1. Team Vitality
-‘mOnKeY_LeSinge
-Stream - https://www.twitch.tv/monkey_lesinge
+[mOnKeY_LeSinge](https://www.twitch.tv/monkey_lesinge)
 
 2. G2 Team
-Old member ‘Wacko’
-Stream: https://www.twitch.tv/wacko
+Old member [Wacko](https://www.twitch.tv/wacko)
 
 #### APEX LEGENDS PRO PLAYER
 1. Team Penta Apex
-Wacko
-Stream: https://www.twitch.tv/wacko
+[Wacko](https://www.twitch.tv/wacko)
 
 
 #### Osu! PRO PLAYER
-1. Kynan: https://www.twitch.tv/kynan383
+1. [Kynan](https://www.twitch.tv/kynan383)
 
 ### Youtube content creators
 1. Player IGN
