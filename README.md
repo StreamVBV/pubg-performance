@@ -28,8 +28,8 @@ We really love PUBG, we wish it good luck and we wanna have the same chances dur
 If you wanna show me your appreciation - Please, like my guide, add it to fav, show it to your friends (maybe they also have problems with PUBG), or maybe you wanna sent me something.
 Every kind of appreciation will be appreciated :D
 
-https://www.buymeacoffee.com/Stream
-https://steamcommunity.com/tradeoffer/new/?partner=177717593&token=NO-4pP9D
+- https://www.buymeacoffee.com/Stream
+- https://steamcommunity.com/tradeoffer/new/?partner=177717593&token=NO-4pP9D
 
 I have tested many things from my guide since Vikendi update.
 What I noticed? Every single update, game worked totally different and some FPS fixes worked, but the next update you had to revert them into previous previous ones. Weird, right? I don't really know, but it really worked.
@@ -533,8 +533,8 @@ Hope you appreciate it and most of your problems are gone!
 
 If you wanna show me your appreciation - Please, like my guide, show it to your friends, or maybe you wanna sent me something.
 Every kind of appreciation will be appreciated :D
-https://www.buymeacoffee.com/Stream
-https://steamcommunity.com/tradeoffer/new/?partner=177717593&token=NO-4pP9D
+- https://www.buymeacoffee.com/Stream
+- https://steamcommunity.com/tradeoffer/new/?partner=177717593&token=NO-4pP9D
 
 You can also add me on steam to get some additional info If any of your problems was not fixed.
 But before adding me, please leave a comment. I have hundreds of unaccepted invitations.
@@ -604,7 +604,9 @@ Stream: https://www.twitch.tv/wacko
 ### Youtube content creators
 1. Player IGN
 
-### Communities
+
+
+## Communities
 1. PlayerIGN’s discord server!
 
     Owner - PlayerIGN.
