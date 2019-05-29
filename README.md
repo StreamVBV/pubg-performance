@@ -345,7 +345,7 @@ People had been using launch options during Alpha and Beta to get the best possi
 !Disable ingame tips.
 !Make sure you run the game in FULLSCREEN mode!
 
-Website to check the difference between ‘Very Low’ and ‘Ultra’
+Website to check the difference between ‘Very Low’ and ‘Ultra’.
 https://imgsli.com/MTk0Mg/24/0
 
 Resolution: It’s always the best idea to use your screen resolution.
@@ -370,7 +370,7 @@ NOTE:
 2. If you can’t stand very low details, AA and Textures are the only one options that you wanna increase.
     ‘Medium’ is the best possible option to get decent performance and ingame visibility.
 3. Sharpen is the best optimized option. You should always enable it!
-4. It’s weird, but ‘having fun’ with settings like ViewDistance and Folliage might sometimes help, in terms of increasing performance and getting rid of ‘render freezes’ when driving vehicles etc
+4. It’s weird, but ‘having fun’ with settings like ViewDistance and Folliage might sometimes help, in terms of increasing performance and getting rid of ‘render freezes’ when driving vehicles etc.
     I use both settings on medium.
     Most of streamers and pro players keep both options on very low, or only view distance on medium-ultra.
 5. If you use AA higher than ‘Very low/low’, think about using higher Screen Scale. Of course If your PC allows you to.
@@ -415,11 +415,11 @@ https://portforward.com/playerunknowns-battlegrounds/
 ### 2. Run http://www.dslreports.com/speedtest test
 If your BufferBloat is lower than 'Rank A".
 
-Google: 'Router QoS - Improve bufferbloat'
-If your router do not support QoS function.
+Google: 'Router QoS - Improve bufferbloat'.
 
-Download third party software called 'Tmeter'
-Follow this guide: https://www.howtogeek.com/347711/how-to-limit-any-applications-bandwidth-on-windows/
+If your router do not support QoS function:
+- Download third party software called 'Tmeter'.
+- Follow this guide: https://www.howtogeek.com/347711/how-to-limit-any-applications-bandwidth-on-windows/
 
 Remember one thing - 'google chrome exe' is an application that you use to check the best possible result of bufferbloat.
 If you manage it to get rank A or A+ on google chrome, you are gonna do exactly the same to a file 'TSLGame.exe'. Settings that gave you A or A+ on ‘google chrome app’, you also use for TSLGame.exe file.
@@ -437,7 +437,7 @@ My download speed is higher than 100mb so I set it to higher than 100mb.
 If you have 50mb, set it to 50mb.
 
 ### 4. Think about using a VPN
-I can recommend two VPNs for PUBG: Outfox and CyberGhost
+I can recommend two VPNs for PUBG: Outfox and CyberGhost.
 
 ### 5. Network Adapter Reset
 - Run cmd.exe as Admin
@@ -462,7 +462,7 @@ Hope you’re gonna appreciate few weeks of testing those things and spending a 
 
 Results:
 **Low-end PC Setups:**
-- FPS Freezes and Stuttering reduced
+- FPS Freezes and Stuttering reduced.
 - Game is more playable and enjoyable.
 - Games seems to no longer freeze and stutter during fights.
 - Stuttering reduced from 70 to 90% !!!
@@ -501,7 +501,7 @@ THE MOST IMPORTANT:
     Faster ram -> Better gains.
     8gb faster ram a lot better than 16gb slower ram.
 
-    Most players: 8 - 16gb
+    Most players: 8 - 16gb.
     Only one: 32gb.
     Dual channeled.
     From 2133mhz to 4000mhz.
@@ -646,6 +646,7 @@ Stream: https://www.twitch.tv/wacko
     - CHARLES
     - CmcKnight1971
     Thank You guys for good words and appreciating my work!
+
 
 
 ___
