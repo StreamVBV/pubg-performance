@@ -282,10 +282,6 @@ Most changes that you're gonna see there are placebo, but as I said @up - Someti
 Youtube author - Panjno made a huge guide about it.
 Feel free to follow his guide and you can give him a like to support his useful video :)
 
-GUIDE FOR ADVANCED PEOPLE ONLY: YouTuber called FR33THY made very useful guide(Remove Windows 10 Bloatware 1809 Boost Performance And FPS)
-
-IF YOU ARE NOT AN ADVANCED USER, DO NOT FOLLOW THIS GUIDE! IT'S ONLY FOR PEOPLE THAT REALLY KNOW WHAT THEY DO!!!!!!!
-
 ### 3. The best possible option
 Reinstall your system and after that make all of the optimization changes from this guide.
 
